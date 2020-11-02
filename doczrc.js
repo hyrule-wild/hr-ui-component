@@ -1,4 +1,4 @@
-const menu = ['README', 'study'];
+const menu = ['README'];
 
 export default {
   typescript: true,
