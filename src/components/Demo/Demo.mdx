@@ -1,0 +1,34 @@
+---
+title: Demo
+menu: 组件
+route: /components/Demo
+---
+
+import { Playground } from 'docz';
+import { Demo } from './Demo';
+import Example from './Example/entry';
+
+# Demo
+
+- 组件描述：组件编写案例。
+- 提交人：LCY
+
+## API
+
+| 参数  | 类型   | 默认值 | 说明 |
+| ----- | ------ | ------ | ---- |
+| title | string | -      | -    |
+
+## 示例
+
+<Playground>
+  <Example />
+</Playground>
+
+## 引用方式
+
+```tsx
+const Example: React.FC = () => {
+  return <Demo title="hello Guys!" />;
+};
+```
