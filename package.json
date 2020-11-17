@@ -12,8 +12,7 @@
     "clean": "gulp clean",
     "dev": "gulp clean:dev & docz dev",
     "build": "gulp build",
-    "lint": "npx lint-staged",
-    "publish": "npm version patch & npm publish"
+    "lint": "npx lint-staged"
   },
   "author": "LCY",
   "license": "ISC",
