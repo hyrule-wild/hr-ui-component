@@ -1,6 +1,6 @@
 {
   "name": "hy-ui-component",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "华云中盛 React UI 组件库",
   "homepage": "https://github.com/hyrule-wild/hr-ui-component.git",
   "main": "lib/index.js",
