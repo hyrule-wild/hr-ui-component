@@ -1,6 +1,6 @@
 node_modules/
 .docz
 .DS_Store
-lib
+#lib
 .idea
 src/assets/icon/*.svg
