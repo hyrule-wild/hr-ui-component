@@ -1,6 +1,6 @@
 {
   "name": "hy-ui-component",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "华云中盛 React UI 组件库",
   "main": "lib/index.js",
   "scripts": {
